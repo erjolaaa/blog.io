@@ -1,0 +1,68 @@
+body{
+    background: url(https://loveaslice.com/wp-content/uploads/2020/11/image.jpeg) no-repeat center center fixed;
+    background-size:cover ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-sizing: border-box;
+}
+
+.menu{
+    width:80%;
+    max-width: 600px;
+    background-color: rgba(250, 235, 215, 0.779);
+    margin:0 auto;
+    padding: 30px;
+
+}
+
+article p{
+    display:inline-block;
+       
+}
+
+.lloji{
+    text-align: left;
+    width:70%;
+}
+
+.cmimi{
+    text-align: right;
+    width:30%;
+}
+
+
+h1, h2{
+    font-family: 'Bradley Hand ITC';
+    text-align: center;
+}
+
+h1{
+    font-size: 4.5rem;
+    font-weight: bold;
+    line-height: 0px;
+}
+
+h2{
+    font-size: 3rem;
+    line-height: 0px;
+    padding-top: 20px;
+}
+
+footer{
+    text-align: center;
+}
+
+.established{
+    text-align: center;
+    font-weight: bold;
+    color: brown;
+    padding-bottom: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: brown;
+}
+
+a:hover{
+    color: white;
+}
